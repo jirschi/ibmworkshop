@@ -3,7 +3,7 @@
 }
 
 p {
-    color: red;
+    color: green !important;
     font-weight: bold;
 }
 
