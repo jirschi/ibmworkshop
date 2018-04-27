@@ -1,0 +1,14 @@
+﻿body
+{
+}
+
+p {
+    color: red;
+    font-weight: bold;
+}
+
+.content {
+    color: red;
+    border: 1px solid black;
+    font-weight: bold;
+}
