@@ -1,0 +1,12 @@
+{
+  "name": "ibm_node_test",
+  "version": "0.0.0",
+  "description": "IBM_Node_test",
+  "main": "server.js",
+  "author": {
+    "name": "jergb"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
