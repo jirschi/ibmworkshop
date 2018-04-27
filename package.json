@@ -1,0 +1,15 @@
+{
+  "name": "ibm_test",
+  "version": "0.0.0",
+  "description": "ibm_test",
+  "main": "server.js",
+  "author": {
+    "name": "Jerg Bengel, 752685"
+  },
+  "author_2": {
+    "name": "Tom Maier, 751605"
+  },
+  "dependencies": {
+    
+  }
+}
