@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{219DF19F-FF26-4EB7-B904-F3327E6933A4}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
+		manifest.yml = manifest.yml
 		stylesheet.css = stylesheet.css
 	EndProjectSection
 EndProject
